@@ -78,20 +78,8 @@ while game_running == True:
         if monster_won == True or player_won == True:
             new_round = False
             
-
-    
-
-
-
-
-
-
-
-
-
-
 '''
-Attributes
+Structure
 =====================
 Player-----Monster  |
 =====================
@@ -101,6 +89,8 @@ heal     | ------   |
 health   | health   |
 =====================
 
+Points Covered
+****************
 1. Variables
 2. User Input
 3. Operators
